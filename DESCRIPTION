@@ -1,0 +1,14 @@
+Package: nass
+Type: Package
+Title: Data from the National Automotive Sampling System (NASS)
+Version: 0.1.0
+Authors@R: c(
+    person("Charlotte", "Wickham", , "cwickham@gmail.com", role = c("aut", "cre"))
+  )
+Description: Data from both the General Estimates System (GES) and
+    Crashworthiness Data System (CDS) which are representive random samples of
+    crashes reported by the National Highway Traffic Safety Administration.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
