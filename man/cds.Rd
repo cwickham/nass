@@ -15,7 +15,7 @@
 \alias{cds_veh_pro}
 \alias{cds_vi}
 \title{NASS Crashworthiness Data System}
-\format{something about being llkalk}
+\format{something about being data frames and matching NASS user manual?}
 \source{
 \url{http://www.nhtsa.gov/Data/National-Automotive-Sampling-System-(NASS)/NASS-Crashworthiness-Data-System}
 }

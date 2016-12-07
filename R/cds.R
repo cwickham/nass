@@ -1,7 +1,7 @@
 #' NASS Crashworthiness Data System
 #'
 #' The CDS blah blah blah
-#' @format something about being tibbles
+#' @format something about being data frames and matching NASS user manual?
 #' @source \url{http://www.nhtsa.gov/Data/National-Automotive-Sampling-System-(NASS)/NASS-Crashworthiness-Data-System}
 #' @name cds
 NULL

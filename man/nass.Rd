@@ -13,7 +13,7 @@ crashes reported by the National Highway Traffic Safety Administration.
 \section{CDS}{
 
 The Crashworthiness Data System data sets are all have the prefix \code{cds_}.
-See \code{\link{cds}}.
+See \code{\link{cds}}.  Currently only 2015.
 }
 
 \section{GES}{
